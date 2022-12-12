@@ -1,0 +1,15 @@
+.btn{
+  color: white;
+  background: #315efb;
+  padding:10px;
+  display: flex;
+  margin: 5px 10px;
+}
+.btn_text{
+  margin-right:10px;
+}
+p{
+color: grey;
+margin: 40px 0;
+	
+}
